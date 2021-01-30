@@ -9,7 +9,7 @@
     "cache": {
       "resources": [
         "main.css",
-        "main.js", "kun-xolati.js",
+        "main.js", "kun-xolati.js",  "https://www.googletagmanager.com/gtag/js?id=G-0GB2QVB0F8",
         "icon.png"
       ],
       "ignored_query_params": [
