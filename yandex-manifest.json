@@ -5,7 +5,7 @@
   "scope": "http://asakew.lark.ru/",
   "yandex": {
     "manifest_version": 1,
-    "app_version": "1.0.0",
+    "app_version": "1.0.1",
     "cache": {
       "resources": [
         "main.css",
