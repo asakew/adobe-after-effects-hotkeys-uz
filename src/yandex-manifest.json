@@ -8,8 +8,11 @@
     "app_version": "1.0.2",
     "cache": {
       "resources": [
-        "main.css",
-        "main.js", "kun-xolati.js",  "https://www.googletagmanager.com/gtag/js?id=G-0GB2QVB0F8",   "https://yastatic.net/share2/share.js", 
+        "https://raw.githubusercontent.com/asakew/full-kew/master/src/main.css",
+        "https://raw.githubusercontent.com/asakew/full-kew/master/src/main.js",
+        "kun-xolati.js",
+        "https://www.googletagmanager.com/gtag/js?id=G-0GB2QVB0F8",
+        "https://yastatic.net/share2/share.js", 
         "icon.png"
       ],
       "ignored_query_params": [
