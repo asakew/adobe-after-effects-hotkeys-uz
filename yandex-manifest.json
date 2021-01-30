@@ -5,11 +5,11 @@
   "scope": "http://asakew.lark.ru/",
   "yandex": {
     "manifest_version": 1,
-    "app_version": "1.0.1",
+    "app_version": "1.0.2",
     "cache": {
       "resources": [
         "main.css",
-        "main.js", "kun-xolati.js",  "https://www.googletagmanager.com/gtag/js?id=G-0GB2QVB0F8",
+        "main.js", "kun-xolati.js",  "https://www.googletagmanager.com/gtag/js?id=G-0GB2QVB0F8",   "https://yastatic.net/share2/share.js", 
         "icon.png"
       ],
       "ignored_query_params": [
