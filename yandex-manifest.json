@@ -9,7 +9,7 @@
     "cache": {
       "resources": [
         "main.css",
-        "main.js",
+        "main.js", "kun-xolati.js",
         "icon.png"
       ],
       "ignored_query_params": [
