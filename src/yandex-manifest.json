@@ -1,7 +1,7 @@
 {
   "name": "asakew.lark.ru",
   "lang": "ru",
-  "start_url": "http://asakew.lark.ru/index.hmtl",
+  "start_url": "http://asakew.lark.ru/index.html",
   "scope": "http://asakew.lark.ru/",
   "yandex": {
     "manifest_version": 1,
