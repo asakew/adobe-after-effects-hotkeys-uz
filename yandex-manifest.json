@@ -1,0 +1,21 @@
+{
+  "name": "asakew.lark.ru",
+  "lang": "ru",
+  "start_url": "http://asakew.lark.ru/index.hmtl",
+  "scope": "http://asakew.lark.ru/",
+  "yandex": {
+    "manifest_version": 1,
+    "app_version": "1.0.0",
+    "cache": {
+      "resources": [
+        "main.css",
+        "main.js",
+        "icon.png"
+      ],
+      "ignored_query_params": [
+        "param_1",
+        "param2"
+      ]
+    }
+  }
+}
