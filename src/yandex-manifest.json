@@ -1,15 +1,15 @@
 {
   "name": "asakew.lark.ru",
   "lang": "ru",
-  "start_url": "http://asakew.lark.ru/index.html",
+  "start_url": "http://asakew.lark.ru/",
   "scope": "http://asakew.lark.ru/",
   "yandex": {
     "manifest_version": 1,
     "app_version": "1.0.3",
     "cache": {
       "resources": [
-        "https://raw.githubusercontent.com/asakew/full-kew/master/src/main.css",
-        "https://raw.githubusercontent.com/asakew/full-kew/master/src/main.js",
+        "main.css",
+        "main.js",
         "kun-xolati.js",
         "https://www.googletagmanager.com/gtag/js?id=G-0GB2QVB0F8",
         "https://yastatic.net/share2/share.js", 
