@@ -1,0 +1,6 @@
+﻿git log --oneline : --all : --graph
+git log --oneline --all --graph
+git cat-file -p hesh
+git checkout -b wordpress 620596e
+
+git checkout hesh brench-name
