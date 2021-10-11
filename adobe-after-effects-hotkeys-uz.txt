@@ -1,0 +1,74 @@
+# adobe-after-effects-hotkeys-uz.txt
+FPanellarni ochib quyish:
+	Panel Group setting > Soloni off
+
+Panelerni uchirib/yoqish
+	Ctrl+0
+
+Maslaxat
+	time-lineni ikkinchi ekranga olib ishlash
+
+timeLine va Composision-ga tezkor utish
+	/
+
+timeLine / sloy:
+	Sloy tepega/pastga o'tish
+		Ctrl+Down/Up
+
+	Sloy-larni tanlash
+		Ctrl+Shift+Down/Up
+
+	Tanlangan sloy-ni position-ni o'zgartirish
+		Ctrl+[ yoki ]
+
+	Tanlangan sloy-ni eng yuqori/pastga utkazish
+		Ctrl+Shift+[ yoki ]		
+
+Tezkor file/sloy quyish
+	Ctrl+/
+
+File Fit / tanlangan sloy-ga ishlaydi
+	Fit to Comp: 			Ctrl+Alt+F - File eniga tortish
+	Fit to Comp Width: 		Ctrl+Alt+Shift+H - File buyiga tortish
+	Fit to Comp Hieght: 	Ctrl+Alt+Shift+G - File autoSize / screen-vieport
+
+New Text
+	Ctrl+T
+
+New Solid
+	Ctrl+Y
+
+New Null Object
+	Ctrl+Alt+Shift+Y
+
+tezkor sloy-larga utish: numPad / NumLock
+ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 - unlik sonlar kelganda faqat tezkor bosish kerak.
+
+Select/Tanlovni bekor qilish
+	F1 / Ctrl+Shift+A
+
+Time Indicator: PleyHead yoki PlayEnd - Positions qayerda bulsa usha yerda tanlangan sloy-ni [ -boshiga yoki ] -xoiriga utkazish + effect keyframe bilan birga chuzish
+	Alt [ yoki ] - Tanlangan sloy-ni pashti kesishdek yoki chuzishdek funksiyasi
+
+	Tanlangan sloy-ni: i-boshiga o-oxiriga utish / agar ikkita tanlansa eng yuqoridagi sloy-ga moshlashadi
+
+	Barcha sloy-larni boshlanishi/oxiri Time Indicator-ni utkazish
+		Ctrl+Alt+Shift+Left / Right
+
+Go to time
+	Alt+Shift+J
+		5 sec kerak bulsa:	5.
+		5 min kerak bulsa:	5..
+		5 hour kerak bulsa:	5...
+
+Boshqa Funksiyalarga
+	zoom
+		50%	ekranda		2px
+		100% ekranda	1px / tugmani bosak 100% ga utadi
+		30%	ekran 		Shift+/
+	33% ekranga uztazsak
+		200% ekranda	0.5px
+		1px utkazish	Left/Right
+		10px utkazish	Shift+Left/Right
+
+
