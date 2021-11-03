@@ -1,0 +1,17 @@
+› Kirish Git:
+local open/private source version control system
+lokal ochiq/yopiq kodli versiyalarni boshqarish tizimi
+
+Hud - Markaz
+git-larni saqlab borishga, sinxronlash tekin hosting
+
+› Qulaylliklari/Funksiyalari:
+Yakka yoki Jamoaviy ishlashga juda qulay.
+Qaney o'zgarishlar qilingan/qilindi kodlarni ko'rib borish.
+Brench control - 
+Portfolio Yakka yoki (Jamoaviy / Organizations - ochib kattaroq proektlarga jamoaviy ishlash - screenshot)
+Open Sourse - Ochiq loyihalarga xissa qushish)
+
+› Savollar, Takliflar, Shikoyatlar uchun:
+eng: https://github.community/
+uz: https://t.me/github_uz_group/
